@@ -1,17 +1,17 @@
 {
-    "name": "laravel-enso/history-tracker",
+    "name": "genealogiawebsite/history-tracker",
     "description": "Model history tracking dependency for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "genealogiawebsite",
         "history-tracker"
     ],
-    "homepage": "https://github.com/laravel-enso/history-tracker",
+    "homepage": "https://github.com/genealogiawebsite/history-tracker",
     "type": "library",
     "license": "MIT",
     "authors": [{
         "name": "Adrian Ocneanu",
         "email": "aocneanu@gmail.com",
-        "homepage": "https://laravel-enso.com",
+        "homepage": "https://genealogiawebsite.com",
         "role": "Developer"
     }],
     "require": {
